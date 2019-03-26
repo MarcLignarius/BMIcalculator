@@ -13,7 +13,7 @@ _User will be prompted to enter their height in inches and their weight in pound
 
 * _Clone the file from GitHub_
 * _Open the file and double click index.html_
-* _Alternatively launch marclignarius.github.io/BMI_
+* _Alternatively launch marclignarius.github.io/BMIcalculator_
 
 ## Support and contact details
 
